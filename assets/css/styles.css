@@ -12,15 +12,16 @@ body {
 }
 
 h1 {
-    color: darkorange;
+    color: darkslateblue;
     font-family: 'Kaushan Script',cursive, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 50px;
+    padding: 20px;
 }
 
 h2 {
-    color: orange;
+    color: darkslategrey;
     font-family: 'Kaushan Script';
-    text-decoration: underline;
+    padding: 15px;
 }
 
 p {
@@ -37,5 +38,9 @@ aside {
 
 li {
     font-family: 'Architects Daughter';
+    font-size: 25px;
+}
 
+.container {
+    padding: 15px;
 }
