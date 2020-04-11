@@ -1,14 +1,13 @@
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Kaushan+Script&display=swap');
 
 body {
     background-color: rgb(186, 193, 201);
     margin: 30px 15px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Architects Daughter', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 } 
 
 .row {
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 h1 {
@@ -27,6 +26,7 @@ h2 {
 h3 {
     font-family: 'Kaushan Script';
     color: darkorange;
+    padding-left: 50px;
 }
 
 p {
@@ -41,6 +41,14 @@ aside {
     border: solid, 5px, yellow;
 }
 
+footer {
+    font-family: 'architects daughter';
+    background-color: darkorange;
+    float: center;
+    text-align: center;
+    font-size: large;
+}
+
 li {
     font-family: 'Architects Daughter';
     font-size: 25px;
@@ -48,4 +56,8 @@ li {
 
 .container {
     padding: 15px;
+}
+
+.wire {
+    align-content: center;
 }
