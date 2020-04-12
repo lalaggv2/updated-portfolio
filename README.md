@@ -26,8 +26,12 @@ The tutor helped me with some fixes and general questions about grids and html.
 
 Even thought I spend time designing, please don't judge this on its aesthetic value, because most of the time was spend trying to get things to work and not enough in actual design.
 
+Resized all images to fit in the same format. Unfortunately, some images' aspect ratio was affected.
+
 I used a html verificator and fixed what it found.
 
 Used the inspector to check changes, see where to add margins, padding, etc.
 
 Tried to create some screenshots, but didn't know how to include them in here.
+
+Looked online for the sticky footer feature and followed the instructions found on MDN guide.
