@@ -27,12 +27,14 @@ h3 {
     font-family: 'Kaushan Script';
     color: darkorange;
     padding-left: 50px;
+    font-size: 40px;
 }
 
 p {
     font-family: 'Architects Daughter';
-    border: peachpuff, dotted, 5px;
+    border: peachpuff, dotted, 15px;
     font-size: medium;
+    margin: 25px;
 }
     
 aside {
@@ -46,18 +48,38 @@ footer {
     background-color: darkorange;
     float: center;
     text-align: center;
-    font-size: large;
+    font-size: x-large;
+    padding: 40px;
 }
 
 li {
+    margin: 25px;
     font-family: 'Architects Daughter';
-    font-size: 25px;
+    font-size: x-large;
+}
+
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 }
 
 .container {
-    padding: 15px;
+    padding: 10px;
 }
 
-.wire {
-    align-content: center;
+.about {
+    margin: 25px;
+    font-family: 'Architects Daughter';
+    font-size: 20px;
+    padding: 25px;
+    border: darkorange;
+    border-width: 10px;
+    border-style: dotted;
+}
+
+.card-img-top {
+    padding: 5px;
+    max-height: 300px;
+    max-width: 300px;
 }
