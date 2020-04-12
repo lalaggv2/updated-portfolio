@@ -25,3 +25,7 @@ Also, some time was lost because things didn't work as expected or the look wasn
 The tutor helped me with some fixes and general questions about grids and html.
 
 Even thought I spend time designing, please don't judge this on its aesthetic value, because most of the time was spend trying to get things to work and not enough in actual design.
+
+I used a html verificator and fixed what it found.
+
+Used the inspector to check changes, see where to add margins, padding, etc.
