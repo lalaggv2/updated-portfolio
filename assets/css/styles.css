@@ -32,9 +32,8 @@ h3 {
 
 p {
     font-family: 'Architects Daughter';
-    border: peachpuff, dotted, 15px;
     font-size: medium;
-    margin: 25px;
+    margin: 5px;
 }
     
 aside {
@@ -72,14 +71,18 @@ li {
     margin: 25px;
     font-family: 'Architects Daughter';
     font-size: 20px;
-    padding: 25px;
-    border: darkorange;
-    border-width: 10px;
-    border-style: dotted;
+    padding: 25px;     
 }
 
 .card-img-top {
     padding: 5px;
     max-height: 300px;
     max-width: 300px;
+}
+
+.text1 {
+    border-width: 2px;
+    border-style: solid;
+    border-color: darkslategray;
+    padding: 5px;
 }
