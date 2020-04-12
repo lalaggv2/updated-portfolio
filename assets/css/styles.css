@@ -48,12 +48,17 @@ footer {
     float: center;
     text-align: center;
     font-size: x-large;
-    padding: 40px;
+    padding: 30px;
+    margin-top: 20px;
 }
 
 li {
     margin: 25px;
     font-family: 'Architects Daughter';
+    font-size: x-large;
+}
+
+label {
     font-size: x-large;
 }
 
@@ -85,4 +90,14 @@ li {
     border-style: solid;
     border-color: darkslategray;
     padding: 5px;
+}
+
+.row {
+    margin: 30px;
+}
+
+.aboutme {
+    border: solid;
+    border-width: 2px;
+    border-color: darkslateblue;
 }
