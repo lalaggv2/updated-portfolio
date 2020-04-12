@@ -29,3 +29,5 @@ Even thought I spend time designing, please don't judge this on its aesthetic va
 I used a html verificator and fixed what it found.
 
 Used the inspector to check changes, see where to add margins, padding, etc.
+
+Tried to create some screenshots, but didn't know how to include them in here.
