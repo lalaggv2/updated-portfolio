@@ -23,3 +23,5 @@ I spend a lot of time changing design elements like colors, widths, fonts, font 
 Also, some time was lost because things didn't work as expected or the look wasn't right, so they got deleted.
 
 The tutor helped me with some fixes and general questions about grids and html.
+
+Even thought I spend time designing, please don't judge this on its aesthetic value, because most of the time was spend trying to get things to work and not enough in actual design.
