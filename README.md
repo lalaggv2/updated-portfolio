@@ -19,3 +19,7 @@ For the portfolio, I used card and placed them in a basic grid: 3 columsn and 2 
 I got the images online, copied them to my assets/image folder and then linked them to the cards.
 
 I spend a lot of time changing design elements like colors, widths, fonts, font sizes, images size and position, and so on.
+
+Also, some time was lost because things didn't work as expected or the look wasn't right, so they got deleted.
+
+The tutor helped me with some fixes and general questions about grids and html.
