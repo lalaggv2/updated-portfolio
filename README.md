@@ -17,3 +17,5 @@ I did some basic diagram for the look of the pages and then used columns and row
 For the portfolio, I used card and placed them in a basic grid: 3 columsn and 2 rows.
 
 I got the images online, copied them to my assets/image folder and then linked them to the cards.
+
+I spend a lot of time changing design elements like colors, widths, fonts, font sizes, images size and position, and so on.
