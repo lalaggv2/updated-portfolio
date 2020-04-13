@@ -37,3 +37,5 @@ Used the inspector to check changes, see where to add margins, padding, etc.
 Tried to create some screenshots, but didn't know how to include them in here.
 
 Looked online for the sticky footer feature and followed the instructions found on MDN guide.
+
+Added more pictures, the LI badge, fixed some margins and padding, made the images responsive, and more, much more.
