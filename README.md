@@ -16,7 +16,7 @@ I did some basic diagram for the look of the pages and then used columns and row
 
 For the portfolio, I used card and placed them in a basic grid: 3 columsn and 2 rows.
 
-I got the images online, copied them to my assets/image folder and then linked them to the cards.
+I got the images online, copied them to my assets/image folder and then linked them to the cards. Since I don't have any "works" to place there, I decided to use photos of some typical foods from my country.
 
 I spend a lot of time changing design elements like colors, widths, fonts, font sizes, images size and position, and so on.
 
@@ -24,9 +24,11 @@ Also, some time was lost because things didn't work as expected or the look wasn
 
 The tutor helped me with some fixes and general questions about grids and html.
 
-Even thought I spend time designing, please don't judge this on its aesthetic value, because most of the time was spend trying to get things to work and not enough in actual design.
+Even thought I spend time designing, please don't judge this on its aesthetic value, because most of the time was spend trying to get things to work and not enough in actual design, especially in defining colors and selecting images among others.
 
 Resized all images to fit in the same format. Unfortunately, some images' aspect ratio was affected.
+
+Verified that semantic HTML was used.
 
 I used a html verificator and fixed what it found.
 
