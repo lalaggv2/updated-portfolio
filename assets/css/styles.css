@@ -107,3 +107,7 @@ label {
     border-width: 2px;
     border-color: darkslateblue;
 }
+
+.LI-profile-badge {
+    margin-top: 20px;
+}
