@@ -117,6 +117,7 @@ label {
 .direction {
   font-size: small;
   color: rgb(224, 123, 177);
+  text-align: center;
 }
 
 .card-text {
