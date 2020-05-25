@@ -38,12 +38,6 @@ p {
   margin: 5px;
 }
 
-aside {
-  float: right;
-  border-width: medium;
-  border: solid, 5px, yellow;
-}
-
 footer {
   font-family: "architects daughter";
   background-color: darkorange;
@@ -71,6 +65,7 @@ label {
 }
 
 .container {
+  margin: 15px;
   padding: 5px;
 }
 
