@@ -1,113 +1,128 @@
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Kaushan+Script&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Kaushan+Script&display=swap");
 
 body {
-    background-color: rgb(186, 193, 201);
-    margin: 30px 15px;
-    font-family: 'Architects Daughter', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-} 
+  background-color: rgb(186, 193, 201);
+  margin: 30px 15px;
+  font-family: "Architects Daughter", "Lucida Sans", "Lucida Sans Regular",
+    "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
 
 .row {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 h1 {
-    color: darkslateblue;
-    font-family: 'Kaushan Script',cursive, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 50px;
-    padding: 20px;
+  color: darkslateblue;
+  font-family: "Kaushan Script", cursive, "Lucida Sans", "Lucida Sans Regular",
+    "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  padding: 20px;
 }
 
 h2 {
-    color: darkslategrey;
-    font-family: 'Kaushan Script';
-    padding: 15px;
+  color: darkslategrey;
+  font-family: "Kaushan Script";
+  padding: 15px;
 }
 
 h3 {
-    font-family: 'Kaushan Script';
-    color: darkorange;
-    padding-left: 20px;
-    font-size: 40px;
+  font-family: "Kaushan Script";
+  color: darkorange;
+  padding-left: 20px;
+  font-size: 40px;
 }
 
 p {
-    font-family: 'Architects Daughter';
-    font-size: medium;
-    margin: 5px;
+  font-family: "Architects Daughter";
+  font-size: medium;
+  margin: 5px;
 }
-    
+
 aside {
-    float: right;
-    border-width: medium;
-    border: solid, 5px, yellow;
+  float: right;
+  border-width: medium;
+  border: solid, 5px, yellow;
 }
 
 footer {
-    font-family: 'architects daughter';
-    background-color: darkorange;
-    float: center;
-    text-align: center;
-    font-size: x-large;
-    padding: 20px;
-    margin-top: 20px;
+  font-family: "architects daughter";
+  background-color: darkorange;
+  float: center;
+  text-align: center;
+  font-size: x-large;
+  padding: 10px;
+  margin-top: 20px;
 }
 
 li {
-    /* margin: 25px; */
-    font-family: 'Architects Daughter';
-    font-size: x-large;
+  /* margin: 25px; */
+  font-family: "Architects Daughter";
+  font-size: 2vw;
 }
 
 label {
-    font-size: x-large;
+  font-size: 2vw;
 }
 
 .wrapper {
-    min-height: 100%;
-    display: grid;
-    grid-template-rows: auto 1fr auto;
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
 }
 
 .container {
-    padding: 5px;
+  padding: 5px;
 }
 
 .about {
-    font-family: 'Architects Daughter';
-    font-size: 25px;
-    margin: 10px;
-    padding: 10px;  
+  font-family: "Architects Daughter";
+  font-size: 2vw;
+  margin: 10px;
+  padding: 10px;
 }
 
 .responsive {
-    width: 100%;
-    height: auto;
+  width: 100%;
+  height: auto;
 }
 
 .card-img-top {
-    padding: 5px;
-    max-height: 300px;
-    max-width: 300px;
+  padding: 5px;
+  max-height: 300px;
+  max-width: 300px;
 }
 
 .text1 {
-    border-width: 2px;
-    border-style: solid;
-    border-color: darkslategray;
-    padding: 5px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: darkslategray;
+  padding: 5px;
 }
 
 .row {
-    margin: 3px;
+  margin: 3px;
 }
 
 .aboutme {
-    margin-top: 10px;
-    border: solid;
-    border-width: 2px;
-    border-color: darkslateblue;
+  margin-top: 10px;
+  border: solid;
+  border-width: 2px;
+  border-color: darkslateblue;
 }
 
 .LI-profile-badge {
-    margin-top: 20px;
+  margin-top: 20px;
+}
+
+.direction {
+  font-size: small;
+  color: rgb(224, 123, 177);
+}
+
+.card-text {
+  color: rgb(204, 156, 116);
+}
+
+.card {
+  background-color: rgb(83, 81, 81);
 }
