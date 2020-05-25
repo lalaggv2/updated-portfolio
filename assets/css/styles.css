@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Kaushan+Script&display=swap");
 
 body {
-  display: inline-block;
   background-color: rgb(186, 193, 201);
   margin: 30px 15px;
   font-family: "Architects Daughter", "Lucida Sans", "Lucida Sans Regular",
@@ -89,8 +88,9 @@ label {
 
 .card-img-top {
   padding: 5px;
-  max-height: 300px;
-  max-width: 300px;
+  max-height: 500px;
+  max-width: 500px;
+  align-self: center;
 }
 
 .text1 {
