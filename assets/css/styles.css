@@ -123,3 +123,15 @@ label {
 .card {
   background-color: rgb(83, 81, 81);
 }
+
+a {
+  text-align: center;
+}
+
+#navbarNav {
+  float: right;
+}
+
+.navbar-right {
+  float: right;
+}
